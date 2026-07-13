@@ -1,2 +1,0 @@
-# smdd
-sicret
